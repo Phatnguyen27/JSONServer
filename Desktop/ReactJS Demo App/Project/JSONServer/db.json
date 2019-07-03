@@ -1,0 +1,15 @@
+{
+    "user":[
+        {"username": "Loc1","password" : "1","fullname" :"LocVjp"},
+        {"username": "Loc2","password" : "1","fullname" :"LocPr0"},
+        {"username": "Abc1","password" : "1","fullname" :"ABC"},
+        {"username": "Def1","password" : "1","fullname" :"DEF"}
+    ],
+    "SearchedSong":[
+        {"id": "1","song-title": "Dau de truong thanh","singer": "OnlyC","views": "100000"},
+        {"id": "2","song-title": "De mi noi cho ma nghe","singer": "Hoang Thuy Linh","views": "100000"},
+        {"id": "3","song-title": "Senorita~","singer": "Shawn Mendes ft Camila Cabello","views": "100000"},
+        {"id": "4","song-title": "I don't care","singer": "Ed Sheeran ft Justin Bieber","views": "100000"},
+        {"id": "5","song-title": "Beautiful People","singer": "Ed Sheeran fr Khalid","views": "100000"}
+    ]
+}
