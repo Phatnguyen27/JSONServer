@@ -1,0 +1,23 @@
+
+.song-video-name{
+    padding-top: 20px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.react{
+    display: flex;
+    float: right;
+}
+.react-like{
+    margin-right: 50px;
+}
+.like{
+    width: 30px;
+    height: 30px;
+}
+
+.disLike{
+    width: 30px;
+    height: 30px;
+}
+
